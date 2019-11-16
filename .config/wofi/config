@@ -1,0 +1,16 @@
+mode=drun
+prompt=
+width=400
+height=1346
+x=0
+xoffset=10
+y=0
+yoffset=10
+allow_images=true
+allow_markup=true
+insensitive=true
+no_actions=true
+key_down=Control_L-t
+key_up=Control_L-e
+key_submit=
+key_exit=Control_L-a
